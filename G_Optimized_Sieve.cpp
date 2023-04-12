@@ -10,18 +10,6 @@ using namespace std;
 #define endl '\n'
 #define testcase ll t; cin>>t; while(t--)
 
-bool isSquare(ll x){
-    if(sqrt(x)== (int)sqrt(x)) return true;
-    else return false;
-}
-
-bool isPrime(ll x){
-    for(ll i=2; i*i <= x; i++)
-        if(x%i==0) return false;
-
-    return true;
-}
-
 const int N = 1e8+69;
 bool nums[N];
 vector <int > primes;
