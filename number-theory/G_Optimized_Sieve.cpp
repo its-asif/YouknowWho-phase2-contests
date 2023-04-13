@@ -1,5 +1,5 @@
 /*
-Basic Number Theory (G) | YouKn0wWho Academy
+Basic Number Theory (J) | YouKn0wWho Academy
     SPOJ - TDPRIMES
     Optimized Sieve
 */
