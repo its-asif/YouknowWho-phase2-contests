@@ -1,3 +1,8 @@
+/*
+Basic Math And Again Number Theory (A) | YouKn0wWho Academy
+    HackerRank - constructing-a-number 
+    Constructing a Number 
+*/
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long 
