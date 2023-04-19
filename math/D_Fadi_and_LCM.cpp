@@ -1,5 +1,5 @@
 /*
-Basic Math And Again Number Theory(D) | YouKn0wWho Academy
+Basic Math And Again Number Theory(H) | YouKn0wWho Academy
     CodeForces - 1285C 
     Fadi and LCM  
 */
